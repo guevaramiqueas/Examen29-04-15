@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.miqueas.examen29_04_15" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".comida1"
+            android:label=""
+            android:parentActivityName=".comida1" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida1" />
+        </activity>
+        <activity
+            android:name=".comida2"
+            android:label=""
+            android:parentActivityName=".comida2" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida2" />
+        </activity>
+        <activity
+            android:name=".comida3"
+            android:label=""
+            android:parentActivityName=".comida3" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida3" />
+        </activity>
+        <activity
+            android:name=".comida4"
+            android:label=""
+            android:parentActivityName=".comida4" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida4" />
+        </activity>
+        <activity
+            android:name=".comida5"
+            android:label=""
+            android:parentActivityName=".comida5" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida5" />
+        </activity>
+         <activity
+            android:name=".comida6"
+            android:label=""
+            android:parentActivityName=".comida6" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".comida6" />
+        </activity>
+        <activity
+            android:name=".opcion1"
+            android:label="@string/title_activity_opcion1" >
+        </activity>
+        <activity
+            android:name=".opcion2"
+            android:label="@string/title_activity_opcion2" >
+        </activity>
+        <activity
+            android:name=".opcion3"
+            android:label="@string/title_activity_opcion3" >
+        </activity>
+        <activity
+            android:name=".opcion4"
+            android:label="@string/title_activity_opcion4" >
+        </activity>
+        <activity
+            android:name=".opcion1_1"
+            android:label="reporte de productos" >
+        </activity>
+        <activity
+            android:name=".opcion2_2"
+            android:label="reporte de ventas" >
+        </activity>
+        <activity
+            android:name=".inicio"
+            android:label="inicio" >
+        </activity>
+    </application>
+
+</manifest>

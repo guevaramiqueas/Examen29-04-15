@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inicio" type="id" />
+    <item name="action_setting" type="id" />
+    <item name="comida1" type="id" />
+    <item name="comida2" type="id" />
+    <item name="comida3" type="id" />
+    <item name="comida4" type="id" />
+    <item name="comida5" type="id" />
+    <item name="comida6" type="id" />
+</resources>

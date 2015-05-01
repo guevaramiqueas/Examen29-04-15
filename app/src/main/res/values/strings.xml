@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">La Casa De MGC</string>
+
+    <string name="title_activity_opcion1">cliente</string>
+    <string name="title_activity_opcion2">producto</string>
+    <string name="title_activity_opcion3">categoria</string>
+    <string name="title_activity_opcion4">vendedor</string>
+    <string name="title_activity_opcion5">inicio</string>
+
+    <string name="opc1">Welcom a cliente</string>
+    <string name="opc2">Welcom a producto</string>
+    <string name="opc3">Welcom a categoria</string>
+    <string name="opc4">Welcom a vendedor</string>
+    <string name="opc5">inicio</string>
+    <string name="opcion1">cliente</string>
+    <string name="opcion2">producto</string>
+    <string name="opcion3">categoria</string>
+    <string name="opcion4">vendedor</string>
+    <string name="opcion5">inicio</string>
+    <string name="inicio">Inicio</string>
+
+    <string name="opc1_1">reporte_producto</string>
+    <string name="opc2_2">reporte_ventas</string>
+    <string name="opcion1_1">reporte_producto</string>
+    <string name="opcion2_2">reporte_ventas</string>
+    <string name="title_activity_opcion1_1">reporte_productos</string>
+    <string name="title_activity_opcion2_2">reporte_ventas</string>
+
+
+    <string name="title_activity_comida1"></string>
+    <string name="title_activity_comida2"></string>
+    <string name="title_activity_comida3"></string>
+    <string name="title_activity_comida4"></string>
+    <string name="title_activity_comida5"></string>
+    <string name="title_activity_comida6"></string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_Activity_inicio">inicio</string>
+
+</resources>
